@@ -16,6 +16,7 @@
 		6BB89AC727355B74009D282E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6BB89AC527355B74009D282E /* LaunchScreen.storyboard */; };
 		6BB89AD227355B74009D282E /* TestVersionControlTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BB89AD127355B74009D282E /* TestVersionControlTests.swift */; };
 		6BB89ADD27355B74009D282E /* TestVersionControlUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BB89ADC27355B74009D282E /* TestVersionControlUITests.swift */; };
+		6BB89AEE27355DD3009D282E /* UploadImgViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BB89AED27355DD3009D282E /* UploadImgViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		6BB89AD827355B74009D282E /* TestVersionControlUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestVersionControlUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6BB89ADC27355B74009D282E /* TestVersionControlUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestVersionControlUITests.swift; sourceTree = "<group>"; };
 		6BB89ADE27355B74009D282E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6BB89AED27355DD3009D282E /* UploadImgViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UploadImgViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				6BB89AB727355B68009D282E /* AppDelegate.swift */,
 				6BB89AB927355B68009D282E /* SceneDelegate.swift */,
 				6BB89ABB27355B68009D282E /* ViewController.swift */,
+				6BB89AED27355DD3009D282E /* UploadImgViewController.swift */,
 				6BB89ABD27355B68009D282E /* Main.storyboard */,
 				6BB89AC327355B74009D282E /* Assets.xcassets */,
 				6BB89AC527355B74009D282E /* LaunchScreen.storyboard */,
@@ -264,6 +267,7 @@
 				6BB89ABC27355B68009D282E /* ViewController.swift in Sources */,
 				6BB89AB827355B68009D282E /* AppDelegate.swift in Sources */,
 				6BB89AC227355B68009D282E /* TestVersionControl.xcdatamodeld in Sources */,
+				6BB89AEE27355DD3009D282E /* UploadImgViewController.swift in Sources */,
 				6BB89ABA27355B68009D282E /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

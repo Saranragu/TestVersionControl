@@ -8,10 +8,15 @@
 import UIKit
 
 class ViewController: UIViewController {
+    let uploadImgObj = UploadImgViewController()
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        self.displayUploadImages()
+    }
+    
+    func displayUploadImages() {
+        print("Upload Imgaes")
     }
 
 
